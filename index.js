@@ -10,3 +10,5 @@ let result3 = 20/5
 console.log(result3)
 let result4 = 5/5
 console.log(result4)
+console.log(n1 > n4);
+console.log(n2-n1)
