@@ -12,4 +12,5 @@ let result4 = 5/5
 console.log(result4)
 console.log(n1 > n4);
 console.log(n2-n1)
-console.log (5*n3)
+console.log(5*n3)
+console.log(100%n4);
